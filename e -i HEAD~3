@@ -1,0 +1,95 @@
+[33mcommit de827430b24eb4ddd873b7f2fd9ca3a58c180f51[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Wed Oct 29 21:46:04 2025 +0600
+
+    first commit
+
+[33mcommit e7d38151dda437db4bb8ea529a5f4ac386052e4b[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Wed Oct 29 13:12:39 2025 +0600
+
+    .env updated
+
+[33mcommit 31732c3af1d447a4f8c0394f46395dd81e9c1902[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Wed Oct 29 12:09:47 2025 +0600
+
+    update account model
+
+[33mcommit df747e9beb977925b75cd30dd7037c3a2993f682[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Tue Sep 23 21:46:36 2025 +0600
+
+    customer app added
+
+[33mcommit 159af7d810020286aa0ef40b7f5ea76f237fd2d4[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Tue Sep 23 13:05:38 2025 +0600
+
+    customer app deleted
+
+[33mcommit c3bdadbebc9c1cf22540e3a799cca9ecc81865ba[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Mon Sep 22 22:41:19 2025 +0600
+
+    authentication update & customer, bookings app added
+
+[33mcommit 32ff98ded416fb06e139d29486b2b7e2031a6bb4[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Sat Sep 20 00:06:04 2025 +0600
+
+    .
+
+[33mcommit 0ea5b70b037307b14adbef9f82d7758a233d442d[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Fri Sep 19 11:52:57 2025 +0600
+
+    ..
+
+[33mcommit d5e59a4a4545eede947d965a05bf2138b1fa6158[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Fri Sep 19 11:47:39 2025 +0600
+
+    ..
+
+[33mcommit d7e3ad1cb24b9a8093041ab7d8195baa446667b6[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Fri Sep 19 11:33:51 2025 +0600
+
+    mysql integrate
+
+[33mcommit b25d998ff5ead77a345b99efd02924983cbceac0[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Fri Sep 19 11:23:20 2025 +0600
+
+    .
+
+[33mcommit b550b9c9f71d32fccbb124c31fc6c5cb01a4a7c3[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Fri Sep 19 11:07:41 2025 +0600
+
+    MySQL Added
+
+[33mcommit 73eac4e71aee9fa0288b5e8ad5a6730e5eb4e7fe[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Fri Sep 19 10:10:04 2025 +0600
+
+    auto set role
+
+[33mcommit d7c7a776a187444ead58530380677cad57e576d2[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Thu Sep 18 20:06:46 2025 +0600
+
+    review_count add in service models
+
+[33mcommit e718b85dc1336a054a0756f5899a551f9dce69a0[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Thu Sep 18 12:29:11 2025 +0600
+
+    fix CORS policy
+
+[33mcommit a3f13805ea0756c1af1a345501a0859a8cdd3449[m
+Author: sh_rajin <shrajin7@gmail.com>
+Date:   Wed Sep 17 23:35:16 2025 +0600
+
+    Initial commit
