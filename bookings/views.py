@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from rest_framework.views import APIView, View
 from rest_framework.response import Response
 from rest_framework import status
@@ -152,11 +152,11 @@ class StripeWebhookView(APIView):
 
 class PaymentSuccessView(View):
     def get(self, request):
-        return render(request, 'bookings/payment_success.html')
+        return redirect("http://127.0.0.1:5500/booking-success.html")
 
 class PaymentCancelView(View):
     def get(self, request):
-        return render(request, 'bookings/payment_cancel.html')
+        return redirect("http://127.0.0.1:5500/booking-cancel.html")
 
 
 class customerBookingListAPIView(APIView):
