@@ -50,7 +50,7 @@ pillow
 psycopg2
 PyAutoGUI
 pycparser
-PyGetWindow.
+PyGetWindow
 PyMsgBox
 PyMySQL
 pyparsing
