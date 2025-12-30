@@ -3,7 +3,9 @@ asgiref
 attrs
 bcrypt
 blinker
+certifi
 cffi
+charset-normalizer
 click
 colorama
 contourpy
@@ -28,6 +30,7 @@ Flask-MySQLdb
 fonttools
 gunicorn
 h11
+idna
 itsdangerous
 Jinja2
 jmespath
@@ -47,7 +50,7 @@ pillow
 psycopg2
 PyAutoGUI
 pycparser
-PyGetWindow
+PyGetWindow.
 PyMsgBox
 PyMySQL
 pyparsing
@@ -59,16 +62,19 @@ pytweening
 pytz
 PyYAML
 referencing
+requests
 rpds-py
 shortcuts
 six
 sqlparse
+stripe
 template
 toml
 typing_extensions
 tzdata
+urllib3
 utils
 uvicorn
 views
-Werkzeug
 zope.interface
+Werkzeug
